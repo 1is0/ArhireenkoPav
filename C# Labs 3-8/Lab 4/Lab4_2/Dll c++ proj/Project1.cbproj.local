@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.644,=C:\Users\TheLostLegend\Documents\Embarcadero\Studio\Projects\Project1PCH2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.944,=C:\Users\TheLostLegend\Documents\Embarcadero\Studio\Projects\Project1PCH2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.691,=C:\Users\TheLostLegend\Documents\Embarcadero\Studio\Projects\Project1PCH2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,=E:\Новая папка\lab2_iz2_v1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,=C:\Users\TheLostLegend\Documents\Embarcadero\Studio\Projects\Project1PCH2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.879,=C:\Users\TheLostLegend\Documents\Embarcadero\Studio\Projects\Project1PCH2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.319,=C:\Users\TheLostLegend\Documents\Embarcadero\Studio\Projects\Project1PCH2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.778,=C:\Users\TheLostLegend\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.450,=C:\Users\TheLostLegend\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.759,=C:\Users\TheLostLegend\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.965,=E:\Новая папка\lab1_3.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.342,C:\Users\TheLostLegend\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\TheLostLegend\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.506,=C:\Users\TheLostLegend\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+  </Transactions>  <ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="File1.cpp"/>
+    <File Path="Project1PCH2.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
